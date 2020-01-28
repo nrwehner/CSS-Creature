@@ -1,0 +1,117 @@
+.wrapper{
+    margin: 75px;
+}
+
+.one{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color:red;
+}
+
+.two{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 90px;
+    left: 92px;
+    background-color:black;
+}
+
+.dot1{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color:black;
+    position: relative;
+    left: 50px;
+    bottom: 30px;
+}
+
+.dot2{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color:black;
+    position: relative;
+    left: 70px;
+    bottom: 95px;
+}
+
+.dot3{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color:black;
+    position: relative;
+    left: 20px;
+    bottom: 85px;
+}
+
+.dot4{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color:black;
+    position: relative;
+    left: 25px;
+    bottom: 66px;
+}
+
+.dot5{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color:black;
+    position: relative;
+    left: 80px;
+    bottom: 90px;
+}
+
+.triangle{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 5px 15px 25px;
+    border-color: transparent transparent black transparent;
+    position: relative;
+    left: 1px;
+    bottom: 90px;
+}
+
+.triangle2{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 15px 10px;
+    border-color: transparent transparent black transparent;
+    position: relative;
+    left: 62px;
+    bottom: 207px;
+}
+
+.triangle3{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 5px 15px 25px;
+    border-color: transparent transparent black transparent;
+    position: relative;
+    left: -25px;
+    bottom: 160px;
+}
+
+.triangle4{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 15px 10px;
+    border-color: transparent transparent black transparent;
+    position: relative;
+    left: 97px;
+    bottom: 200px;
+}
+
+
+
